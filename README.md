@@ -1,3 +1,6 @@
 # py-youtube-converter  
 
-[url=https://www.hizliresim.com/ae2309u][img]https://i.hizliresim.com/ae2309u.png[/img][/url]
+<p align="center">
+  <img src="https://www.hizliresim.com/ae2309u" width="350" title="hover text">
+  <img src="https://www.hizliresim.com/ae2309u" width="350" alt="accessibility text">
+</p>
